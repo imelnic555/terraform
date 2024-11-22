@@ -18,3 +18,4 @@ resource "aws_ecr_repository" "ionrepo" {
   image_scanning_configuration {
     scan_on_push = true
   }
+}
