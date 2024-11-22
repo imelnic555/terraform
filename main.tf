@@ -2,7 +2,6 @@
 
 
 provider "aws" {
-  profile = "test"
   region = "us-east-1"
   access_key = "A0LPA99DFKJ74HW0CPAGH0FNM3"
   secret_key = "a1toUHEBHSU49348JjdssNicCwcT61DfzHtHtkWJYhgnN"
